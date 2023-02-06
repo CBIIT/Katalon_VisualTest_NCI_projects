@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_CFTRCF transmembrane conductance regula_c1f271</name>
+   <tag></tag>
+   <elementGuidId>d9ebe33a-a03c-4d7a-8ed0-5b189d719c2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiGrid-root.MuiGrid-container.MuiGrid-wrap-xs-nowrap</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='profile-page-header-block']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>59875c62-c31b-47fc-855e-8cf006d6cd9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap</value>
+      <webElementGuid>2532c686-ff46-409c-9e84-df85faf6079f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CFTRCF transmembrane conductance regulatorEnsembl: ENSG00000001626UniProt: P13569GeneCards: CFTRHGNC: CFTRFDA PMTL: Unspecified Target ? </value>
+      <webElementGuid>5faf5432-49b2-4366-9104-8e9ef6083a3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;profile-page-header-block&quot;)/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-zeroMinWidth&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap&quot;]</value>
+      <webElementGuid>f831c86b-2062-4b97-a455-a511a43a024c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='profile-page-header-block']/div/div</value>
+      <webElementGuid>c07a0af2-63a0-40b3-a6bf-9134728be470</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Platform'])[1]/following::div[10]</value>
+      <webElementGuid>235bb03a-38e9-4444-93e0-2b21b727d64d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Molecular Targets'])[1]/following::div[10]</value>
+      <webElementGuid>93e3d42e-3ba9-4c5c-88ee-662846d8a75e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div</value>
+      <webElementGuid>8580cec9-3e33-4796-935f-de19fb310577</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'CFTRCF transmembrane conductance regulatorEnsembl: ENSG00000001626UniProt: P13569GeneCards: CFTRHGNC: CFTRFDA PMTL: Unspecified Target ? ' or . = 'CFTRCF transmembrane conductance regulatorEnsembl: ENSG00000001626UniProt: P13569GeneCards: CFTRHGNC: CFTRFDA PMTL: Unspecified Target ? ')]</value>
+      <webElementGuid>7b3c35b9-ad90-49db-8855-93453d7f61c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
